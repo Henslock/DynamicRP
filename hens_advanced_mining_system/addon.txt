@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Advanced Mining System for DarkRP"
+	"version"			"1.0.3a"
+	"up_date"			"2014-2016"
+	"author_name"		"JamesBr"
+	"author_email"		"sir.plusplus.pp@gmail.com"
+	"author_url"		"none"
+	"info"				"Adds a factory and pickaxe swep."
+}
